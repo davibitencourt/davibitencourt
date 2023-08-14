@@ -20,4 +20,3 @@
 
 ## Contatos
 E-mail: davibitencourt@yahoo.com
-Linkedin: https://www.linkedin.com/in/davi-augusto-bitencourt-de-souza-a56145210/
