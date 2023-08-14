@@ -1,16 +1,23 @@
-### Hi there 👋
+# Meu Perfil
 
-<!--
-**davibitencourt/davibitencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Formação Acadêmica
+- Cursando Graduação de Sistemas de Informação - IFG
 
-Here are some ideas to get you started:
+## Cursos Profissionalizantes Concluídos
+- Programador WEB (Front-End) - SENAC
+- Programador de Sistemas (Back-End) - SENAC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cursos Profissionalizantes em Andamento
+- Administrador Banco de Dados (DBA) - SENAC
+
+## Conhecimentos
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- PostgreSQL
+- Brmodelo
+
+## Contatos
+E-mail: davibitencourt@yahoo.com
+Linledin: https://www.linkedin.com/in/davi-augusto-bitencourt-de-souza-a56145210/
