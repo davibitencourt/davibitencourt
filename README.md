@@ -1,16 +1,16 @@
 # Davi Augusto Bitencourt de Souza
 
-## Formação Acadêmica
+## Formação Acadêmica:
 - Cursando Graduação de Sistemas de Informação - IFG
 
-## Cursos Profissionalizantes Concluídos
-- Programador WEB (Front-End) - SENAC
-- Programador de Sistemas (Back-End) - SENAC
+## Cursos Profissionalizantes Concluídos:
+- Programador WEB (Front-End) - SENAC-GO
+- Programador de Sistemas (Back-End) - SENAC-GO
 
-## Cursos Profissionalizantes em Andamento
-- Administrador Banco de Dados (DBA) - SENAC
+## Cursos Profissionalizantes em Andamento:
+- Administrador de Banco de Dados (DBA) - SENAC-GO
 
-## Conhecimentos
+## Conhecimentos:
 - HTML
 - CSS
 - JavaScript
